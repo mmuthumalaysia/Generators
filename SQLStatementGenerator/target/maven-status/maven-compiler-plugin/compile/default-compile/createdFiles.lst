@@ -1,0 +1,6 @@
+com\quickschools\StudentField.class
+com\quickschools\GeneratorException.class
+com\quickschools\SQLGenerator.class
+com\quickschools\StudentJoins.class
+com\quickschools\StudentEntityLookUp.class
+com\quickschools\StudentEntity.class
